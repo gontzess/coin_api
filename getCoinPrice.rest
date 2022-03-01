@@ -1,0 +1,3 @@
+curl https://rest.coinapi.io/v1/exchangerate/PURP/USD \
+  --request GET 
+  --header "X-CoinAPI-Key: 07A57DB9-8648-4A90-AF72-F4D3D208AC47"
